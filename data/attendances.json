@@ -1,0 +1,9 @@
+[
+  { "login": "maria", "slug": "nastolki", "going": 1 },
+  { "login": "maria", "slug": "bessonov", "going": 1 },
+  { "login": "maria", "slug": "film", "going": 1 },
+  { "login": "ilya", "slug": "project", "going": 1 },
+  { "login": "ilya", "slug": "festart", "going": 1 },
+  { "login": "ilya", "slug": "funt", "going": 1 },
+  { "login": "ilya", "slug": "freshman", "going": 0 }
+]

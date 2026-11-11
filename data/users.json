@@ -1,0 +1,42 @@
+[
+  {
+    "login": "arina",
+    "password": "demo",
+    "role": "organizer",
+    "firstName": "Арина",
+    "lastName": "Соколова",
+    "interests": "Камерная музыка и студенческий театр",
+    "about": "Собираю культурные встречи Финансового университета.",
+    "photo": "arina.svg"
+  },
+  {
+    "login": "maria",
+    "password": "demo",
+    "role": "participant",
+    "firstName": "Мария",
+    "lastName": "Лебедева",
+    "interests": "Рисую мангу и играю в настольные игры",
+    "about": "Люблю тихие вечера и живую музыку.",
+    "photo": "maria.svg"
+  },
+  {
+    "login": "ilya",
+    "password": "demo",
+    "role": "participant",
+    "firstName": "Илья",
+    "lastName": "Морозов",
+    "interests": "Собираю учебные проекты и хожу на фестивали",
+    "about": "Ищу, где в кампусе говорят о деле без сцены.",
+    "photo": "ilya.svg"
+  },
+  {
+    "login": "kira",
+    "password": "demo",
+    "role": "participant",
+    "firstName": "Кира",
+    "lastName": "Плотникова",
+    "interests": "Пока присматриваюсь к встречам кампуса",
+    "about": "Ещё не выбрала, куда пойти.",
+    "photo": "kira.svg"
+  }
+]
